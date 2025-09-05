@@ -11,6 +11,7 @@ This project features an **interactive Excel dashboard** 📊 built from transac
 
 The goal is to transform raw data into **actionable insights** that support informed business and strategic decision-making ✅.  
 
+---
 
 ## 🎯 Objectives  
 - Deliver a high-level yet actionable summary of sales trends 📈  
@@ -19,20 +20,28 @@ The goal is to transform raw data into **actionable insights** that support info
 - Analyze shipping cost distribution across providers 🚚  
 - Support smarter, data-driven business decisions 💡
 
+---
+
 ## 🛠️ Tools & Technologies  
 - **Microsoft Excel** - Dashboard design, data visualization & analysis  
 - **Northwind Traders Dataset** - Provided by *Maven Analytics* for realistic business insights  
 
+---
+
 ## 🌐 Live Dashboard  
 Experience the interactive dashboard live here:
 [Click to view the live dashboard](https://1drv.ms/x/c/a145471cdb65b729/ETEpmJ-aCApLnQc4Clr0tQYBHPCqWYKrMmRjWo8F04lDBw?e=qhycpg)
+
+---
 
 ## 🎯 Purpose  
 - Deliver a **clear, interactive snapshot** of sales operations  
 - Focus on the time period **2013–2015**  
 - Enable stakeholders to make **informed strategic decisions**  
 - Support **operational decision-making** with data insights
-  
+
+---
+
 ## 🔑 Key Insights from Dashboard  
 - **Gross Revenue:** 💰 1,354,459  
 - **Net Revenue:** 💵 1,265,793  
@@ -40,8 +49,12 @@ Experience the interactive dashboard live here:
 - **Total Orders:** 🛒 830  
 - **Total Customers:** 👥 89 
  
+---
+
 ## 🖼️ Dashboard Preview 
 ![Northwind Trader Dashboard](Dashboard_Northwind.png)
+
+---
 
 ## ❓ Key Business Questions Answered  
 - 📈 Are there noticeable **sales trends over time**?  
@@ -56,6 +69,8 @@ Experience the interactive dashboard live here:
 - **Customer Segmentation:** A few key clients drive a **large share of sales**, showing dependency risk.  
 - **Shipping Cost Disparity:** Federal Shipping dominates but shows **higher cost concentration**.  
 
+---
+
 ## 🧭 Recommendations  
 - 🔎 **Investigate Sales Dip in 2015** → Explore monthly/region-level details for root causes.  
 - 🎉 **Replicate Q4 2014 Strategy** → Analyze promotions/events and apply yearly.  
@@ -66,12 +81,16 @@ Experience the interactive dashboard live here:
 - 📑 **Audit Shipping Contracts** → Improve terms with Federal Shipping.  
 - 🏷️ **Improve Data Labeling** → Maintain consistency for long-term analytics.  
 
+---
+
 ## 🚀 How to Use This Project  
 - 📂 **Download/Clone the Repository** – Get a copy of the project files onto your local machine.  
 - 📊 **Open the Excel File** – Launch the dashboard file in **Microsoft Excel (2016 or later)** for best compatibility.  
 - 🔍 **Explore Dashboard** - Interact with slicers, filters, and pivot visuals.  
 - 📈 **Analyze Trends & Patterns** – Gain insights on revenue, customers, and shipping efficiency.   
 - 📝 **Apply Findings** - Translate insights into actionable business strategies.  
+
+---
 
 ## 🏁 Conclusion  
 This project provides a **comprehensive snapshot of Northwind Traders’ sales performance** between 2013 and 2015.  
@@ -85,16 +104,22 @@ By leveraging these insights, businesses can **replicate success, address weakne
 
 🔗 I encourage you to explore the dashboard, test different filters, and discover how data-driven decision-making can transform business strategies.  
 
+---
+
 ## 👨‍💻 Author  
 **Ismail** – *Data Analyst | Data Enthusiast*  
 
 I’m passionate about turning raw datasets into meaningful insights 📊. With hands-on experience in **Excel**, **SQL**, and **Power BI**, I enjoy analyzing, visualizing, and storytelling with data to support smarter business decisions 🚀.  
+
+---
 
 🔗 **Let’s Connect**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/uye-ismail-d)  
 - 📧 uyedanzismuye@gmail.com  
 
 💡 *“Without data, you’re just another person with an opinion.”* – W. Edwards Deming  
+
+---
 
 ## 🙏 Closing Note  
 Thank you for taking the time to explore this project 💡.  
