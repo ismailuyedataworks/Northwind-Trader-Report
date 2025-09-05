@@ -116,6 +116,7 @@ I’m passionate about turning raw datasets into meaningful insights 📊. With 
 🔗 **Let’s Connect**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/uye-ismail-d)  
 - 📧 uyedanzismuye@gmail.com  
+- 📧 uyeismaildanzismuye@gmail.com  
 
 💡 *“Without data, you’re just another person with an opinion.”* – W. Edwards Deming  
 
